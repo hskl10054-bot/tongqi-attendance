@@ -76,7 +76,7 @@ export default function AdminPage() {
       {/* Sidebar */}
       <aside className="w-60 bg-slate-900 text-white flex flex-col">
         <div className="p-6 border-b border-slate-700">
-          <div className="text-xl font-bold italic">同齊咖吡</div>
+          <div className="text-xl font-bold italic">裕綸集團</div>
           <div className="text-slate-400 text-xs mt-1">Admin Dashboard</div>
         </div>
         <nav className="flex-1 p-4 space-y-1">
@@ -96,7 +96,7 @@ export default function AdminPage() {
           </a>
         </nav>
         <div className="p-4 border-t border-slate-700 text-xs text-slate-500">
-          v1.0.0 · 同齊咖吡系統
+          v1.0.0 · 裕綸集團系統
         </div>
       </aside>
 

@@ -92,7 +92,7 @@ export default function StaffPage() {
       {/* Header */}
       <nav className="bg-emerald-700 text-white px-4 py-3 flex items-center justify-between shadow-lg">
         <div className="flex items-center gap-2">
-          <span className="text-2xl font-bold">同齊咖吡</span>
+          <span className="text-2xl font-bold">裕綸集團</span>
           <span className="text-emerald-200 text-sm">智慧打卡系統</span>
         </div>
         <div className="text-right">
