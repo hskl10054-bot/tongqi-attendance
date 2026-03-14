@@ -45,7 +45,7 @@ function TopBar() {
 
   return (
     <header className="hidden md:flex bg-white border-b px-6 py-3 items-center justify-between sticky top-0 z-30">
-      <span className="font-bold text-emerald-700 text-lg">同齊咖吡</span>
+      <span className="font-bold text-emerald-700 text-lg">裕綸集團</span>
       <nav className="flex gap-1">
         {[
           { to: '/',          label: '員工打卡' },
