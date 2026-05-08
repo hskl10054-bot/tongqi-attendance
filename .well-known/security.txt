@@ -1,4 +1,0 @@
-Contact: https://github.com/hskl10054-bot/tongqi-attendance/issues
-Preferred-Languages: zh-TW, en
-Canonical: https://hskl10054-bot.github.io/tongqi-attendance/.well-known/security.txt
-Expires: 2027-01-01T00:00:00.000Z
