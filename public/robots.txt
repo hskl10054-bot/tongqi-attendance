@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hskl10054-bot.github.io/tongqi-attendance/sitemap.xml
